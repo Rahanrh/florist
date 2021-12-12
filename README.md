@@ -1,2 +1,2 @@
-# florist
+# Florist
 Final Project
